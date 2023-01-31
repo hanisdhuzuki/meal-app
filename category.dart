@@ -8,7 +8,7 @@ class Category {
       {required this.displayName,
       required this.iconImage,
       required this.tag,
-      required String categoryImage});
+      required this.categoryImage});
 
   factory Category.fromJson(dynamic json) {
     return Category(
