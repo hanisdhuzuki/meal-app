@@ -23,7 +23,7 @@ List<Recipe> _recipes;
     setState(() {
       _isLoading = false;
     });
-
+  }
 
   @override
   Widget build(BuildContext context) {
