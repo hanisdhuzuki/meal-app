@@ -1,5 +1,10 @@
 # Recipe-app
 
+## MOHAMED MOUBARAK MOHAMED MISBAHOU MKOUBOI 1820705
+## NURUL HANIS BINTI MOHD DHUZUKI 1913364
+## NUR AZRI BIN SHAHARUDDIN 2016009
+## MUHAMMAD HAIRIL HAFLAN BIN MOHAMMAD ZAMRI 2017331
+
 ### Recipe App is an application that shows you to the recipe of foods, which includes a detailed list of foods as well as how much time you will spend in cooking them. They have a photo of the end result (which you aim to replicate), and that's all they have. The App is divided into multiple widgets that displaying foods in each.
 
 ![Screenshot_20230201_122005](https://user-images.githubusercontent.com/74138378/215833298-d075be68-da13-4529-9aed-76fe57c02386.png)
